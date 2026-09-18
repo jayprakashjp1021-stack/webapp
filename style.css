@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+ #firstname {
+            width: 200px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+header {
+    background:Black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+section {
+    padding: 60px 10%;
+    min-height: 300px;
+}
+
+home {
+    text-align: center;
+}
+
+products {
+    background: #f2f2f2;
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
